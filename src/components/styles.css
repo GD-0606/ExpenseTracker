@@ -1,0 +1,19 @@
+/* 
+.form-control{
+    box-shadow: none !important;
+}
+.form-control:focus{
+    border-color: transparent !important;
+  box-shadow: 0 0 0 1px #ced4da !important;
+
+}
+.form-check-input{
+    box-shadow: none !important;
+}
+
+.form-check-label{
+    color:black !important;
+}
+.modal-header .btn-close:focus{
+    box-shadow: none;
+} */
